@@ -61,6 +61,17 @@ img {
     text-align: center;
 }
 
+a {
+    color: #218c74;
+    text-decoration: none;
+    box-shadow: 1px 3px #218c74;
+}
+    a:hover {
+        color: #33d9b2;
+        text-decoration: none;
+        box-shadow: 1px 3px #33d9b2;
+    }
+
 * {
     box-sizing: border-box;
   }
@@ -177,9 +188,9 @@ img {
     /* Make sure that all arrows are pointing leftwards */
       .container::before {
         left: 60px;
-        border: medium solid white;
+        border: medium solid #2c2c54;
         border-width: 10px 10px 10px 0;
-        border-color: transparent white transparent transparent;
+        border-color: transparent #2c2c54 transparent transparent;
       }
     
     /* Make sure all circles are at the same spot */
