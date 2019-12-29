@@ -11,7 +11,7 @@ The whole project task is described <a target="_blank" href="https://learn.freec
 ### Stack used
 For this project I used:
 * HTML5
-* CSSS
+* CSS
 
 ### Timeline
 To make the timeline I copied code from W3Schools on how to make a timeline <a href="https://www.w3schools.com/howto/howto_css_timeline.asp" target="_blank">here</a> and changed small parts of the design. 
